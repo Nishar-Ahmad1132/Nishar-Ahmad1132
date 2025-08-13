@@ -44,12 +44,14 @@
 - Deployed on **Vercel** for fast and reliable hosting.
 
 ## 📱 Mobile Applications
-### [Expenses Tracker App](https://github.com/Nishar-Ahmad1132/expenses_tracker) | *September 2023 – October 2023*
+### **Expenses Tracker App** | [GitHub Repo](https://github.com/Nishar-Ahmad1132/expenses_tracker)
+*September 2023 – October 2023*
 - Created a Flutter-based app for tracking daily expenses with categorized spending.
 - Engineered a robust validation system that reduced data input errors by 40%, enhancing overall app reliability.
 - Utilized SharedPreferences for local data storage, ensuring 100% data retention during app updates.
 
-### [Lockboot App](https://github.com/Nishar-Ahmad1132/lockboot) | *January 2023 – March 2023*
+### **Lockboot App** | [GitHub Repo](https://github.com/Nishar-Ahmad1132/lockboot)
+*January 2023 – March 2023*
 - Developed an IoT-based application using Flutter and Firebase for real-time control of home appliances.
 - Connected IoT devices via Arduino for real-time home automation, enabling remote control and reducing manual tasks by 70%.
 - Implemented authentication features to ensure a secure user experience.
