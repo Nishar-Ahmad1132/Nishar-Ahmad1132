@@ -27,7 +27,7 @@
 
 ---
 
-### **Networked Blog Platform** | [GitHub Repo](https://github.com/Nishar-Ahmad1132)  
+### **Networked Blog Platform** | [GitHub Repo](https://github.com/Nishar-Ahmad1132/ahmad-blog)
 *January 2024 – April 2024*  
 - Full-fledged **MERN-based blog platform** with secure RESTful API communication.  
 - Implemented **JWT authentication**, boosting backend performance by 30% via MongoDB aggregation.  
@@ -42,6 +42,17 @@
 - Integrated lead-capturing forms with backend support.  
 - Optimized page load times for better conversion rates.  
 - Deployed on **Vercel** for fast and reliable hosting.
+
+## 📱 Mobile Applications
+### [Expenses Tracker App](https://github.com/Nishar-Ahmad1132/expenses_tracker) | *September 2023 – October 2023*
+- Created a Flutter-based app for tracking daily expenses with categorized spending.
+- Engineered a robust validation system that reduced data input errors by 40%, enhancing overall app reliability.
+- Utilized SharedPreferences for local data storage, ensuring 100% data retention during app updates.
+
+### [Lockboot App](https://github.com/Nishar-Ahmad1132/lockboot) | *January 2023 – March 2023*
+- Developed an IoT-based application using Flutter and Firebase for real-time control of home appliances.
+- Connected IoT devices via Arduino for real-time home automation, enabling remote control and reducing manual tasks by 70%.
+- Implemented authentication features to ensure a secure user experience.
 
 ---
 
