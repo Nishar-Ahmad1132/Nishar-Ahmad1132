@@ -23,8 +23,7 @@
 - Fully responsive portfolio built with **React.js** and **CSS** to showcase skills, projects, and contact details.  
 - Dynamic project section with SVG icons and auto-updates from structured project data.  
 - **Cross-browser compatibility** and **SEO optimization** for improved reach.  
-- Deployed on **AWS EC2** with HTTPS and SSL for secure, scalable hosting.
-
+- Deployed on **Vercel** for fast load times and continuous deployment.
 ---
 
 ### **Networked Blog Platform** | [Live Demo](https://ahmadblog.vercel.app/)
@@ -32,7 +31,7 @@
 - Full-fledged **MERN-based blog platform** with secure RESTful API communication.  
 - Implemented **JWT authentication**, boosting backend performance by 30% via MongoDB aggregation.  
 - Optimized API performance using network tools and logging mechanisms.  
-- Deployed on **AWS EC2** with production-ready security configurations.
+- Frontend deployed on **Vercel** and backend deployed on **Render**, ensuring reliable and scalable hosting.
 
 ---
 
