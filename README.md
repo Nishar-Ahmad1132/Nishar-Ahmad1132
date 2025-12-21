@@ -18,7 +18,7 @@
 
 ## 🚀 Projects
 
-### **Portfolio Website** | [Live Demo](https://myfolio-seven-silk.vercel.app/)
+### **Portfolio Website** | [Live Demo](https://nisharahmad.vercel.app/)
 *August 2024 – September 2024*  
 - Fully responsive portfolio built with **React.js** and **CSS** to showcase skills, projects, and contact details.  
 - Dynamic project section with SVG icons and auto-updates from structured project data.  
@@ -27,12 +27,23 @@
 
 ---
 
-### **Networked Blog Platform** | [GitHub Repo](https://github.com/Nishar-Ahmad1132/ahmad-blog)
+### **Networked Blog Platform** | [Live Demo](https://ahmadblog.vercel.app/)
 *January 2024 – April 2024*  
 - Full-fledged **MERN-based blog platform** with secure RESTful API communication.  
 - Implemented **JWT authentication**, boosting backend performance by 30% via MongoDB aggregation.  
 - Optimized API performance using network tools and logging mechanisms.  
 - Deployed on **AWS EC2** with production-ready security configurations.
+
+---
+
+### **AI Job Recommendation System** | [GitHub](https://github.com/Nishar-Ahmad1132/ai_career_matcher)
+*September 2025 – October 2025*  
+- Built an AI-powered job matching web application that recommends relevant job roles based on user skills and preferences.
+- Implemented backend APIs using FastAPI to handle requests, validation, and responses efficiently.
+- Used FAISS vector search with sentence embeddings to perform semantic job matching instead of keyword-based search.
+- Designed a clean React-based frontend to collect user inputs and display ranked job recommendations.
+- Focused on API performance, scalability, and data handling, ensuring fast response times even with large datasets.
+- This project strengthened my understanding of AI integration in web applications, backend optimization, and system design fundamentals.
 
 ---
 
