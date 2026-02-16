@@ -98,9 +98,12 @@ AWS EC2 • Firebase • Vercel • Git • Docker (learning)
 
 ## 📫 Connect With Me
 
-🌐 Portfolio → https://www.nisharahmad.online  
+🌐 Portfolio → https://nisharahmad.vercel.app
+
 💼 LinkedIn → https://www.linkedin.com/in/nishar-ahmad-47b368215  
+
 🐙 GitHub → https://github.com/Nishar-Ahmad1132  
+
 📧 Email → ahmadnishar1132@gmail.com  
 
 ---
