@@ -1,6 +1,6 @@
 # Hi, I'm Nishar Ahmad 👋
 
-🚀 **Software Development Engineer (SDE) | Full-Stack & AI Developer | Problem Solver**
+🚀 **Software Development Engineer (SDE) | Full-Stack & AI Developer | Data Engineer | Problem Solver**
 
 💻 Passionate about building scalable applications, AI-powered systems, and high-performance backend architectures.  
 🧠 Strong algorithmic thinking with 450+ DSA problems solved (LeetCode 1700+ rating).  
